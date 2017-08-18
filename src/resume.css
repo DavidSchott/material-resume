@@ -77,12 +77,14 @@ sidebar-category:last-of-type .category {
   border-bottom: 0 !important;
   padding-bottom: 0 !important;
   margin-bottom: 0 !important;
+  text-decoration:underline;
 }
 
 category:last-of-type category-item:last-of-type .category {
   border-bottom: 0 !important;
   padding-bottom: 0 !important;
   margin-bottom: 0 !important;
+  text-decoration:underline;
 }
 
 a.page-subhead {
